@@ -1,3 +1,5 @@
+# Step 1/2
+
 max_field_count = 0 
 line_number_with_max_fields = 0 
 line_number = 0 
